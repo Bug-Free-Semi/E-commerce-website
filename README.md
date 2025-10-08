@@ -1,4 +1,7 @@
+# 🛍️ E-Commerce Website
 
+A fully responsive front-end e-commerce website built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
+This project is designed to showcase a modern and clean online shopping interface with product listings, a shopping cart, and smooth user interaction.
 
 ## 🌐 Live Demo
 
